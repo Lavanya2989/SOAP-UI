@@ -1,0 +1,6 @@
+"Test Suite","Test Case","Test Step","Step Type","Step Status","Result message","Execution Date"
+"CalculatorSoap TestSuite","CalculatorSoap TestSuite","Add","request","OK","","08-Jul-2020 22_44",
+"CalculatorSoap TestSuite","CalculatorSoap TestSuite","Divide","request","OK","","08-Jul-2020 22_44",
+"CalculatorSoap TestSuite","CalculatorSoap TestSuite","Multiply","request","OK","","08-Jul-2020 22_44",
+"CalculatorSoap TestSuite","CalculatorSoap TestSuite","Subtract","request","OK","","08-Jul-2020 22_44",
+"CalculatorSoap TestSuite","CalculatorSoap TestSuite","Properties","properties","OK","","08-Jul-2020 22_44",
